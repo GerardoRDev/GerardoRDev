@@ -24,7 +24,7 @@ Apasionado por transformar ideas en soluciones digitales funcionales. Me enfoco 
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Herramientas de Desarrollo:**  
-⚙️ Git & GitHub &nbsp;|&nbsp; 💻 Antigravity IDE &nbsp;|&nbsp; 🚀 OpenCode
+⚙️ Git y GitHub | 💻 Antigravity IDE | 🚀 OpenCode
 
 ---
 
@@ -54,8 +54,8 @@ Apasionado por transformar ideas en soluciones digitales funcionales. Me enfoco 
 
 Si tienes una idea, un proyecto o simplemente quieres charlar sobre tecnología, ¡no dudes en escribirme!
 
-- 📧 **Email:** [gerardito5004@gmail.com](mailto:gerardito5004@gmail.com)
-- 📸 **Instagram:** [@gerardo.mkv](https://instagram.com/gerardo.mkv) *(¡Respondo muy atentamente por aquí!)*
+- 📧 Email: gerardito5004@gmail.com
+- 📸 Instagram: @gerardo.mkv (¡Respondo muy atentamente por aquí!)
 
 ---
 *¡Gracias por visitar mi perfil! Siempre abierto a aprender, crear y colaborar.*
